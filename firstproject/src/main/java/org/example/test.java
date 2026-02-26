@@ -6,7 +6,7 @@ public class test {
     public static void main(String[] args) {
 
         // TODO: Implement business logic
-        System.out.println("The work is going fine");
+        System.out.println("Simulated team update on main branch");
 
         // Placeholder method call
         greetUser("Developer");
